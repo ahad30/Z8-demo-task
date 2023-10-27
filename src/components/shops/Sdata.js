@@ -1,0 +1,75 @@
+const Sdata = {
+  shopItems: [
+    {
+      id: 1,
+      cover: "./images/shops/shops-1.png",
+      name: "Coat",
+      price: "180",
+      discount: "25",
+    },
+    {
+      id: 2,
+      cover: "./images/shops/shops-2.png",
+      name: "T-shirt",
+      price: "120",
+      discount: "10",
+    },
+    {
+      id: 3,
+      cover: "./images/shops/shops-3.png",
+      name: "Jacket",
+      price: "20",
+      discount: "50 ",
+    },
+    {
+      id: 4,
+      cover: "./images/shops/shops-4.png",
+      name: "Bag",
+      price: "999",
+      discount: "10 ",
+    },
+    {
+      id: 5,
+      cover: "./images/shops/shops-5.png",
+      name: "Half-pant",
+      price: "80",
+      discount: "20 ",
+    },
+    {
+      id: 6,
+      cover: "./images/shops/shops-6.png",
+      name: "Money Bag",
+      price: "400",
+      discount: "20 ",
+    },
+    {
+      id: 7,
+      cover: "./images/shops/shops-7.png",
+      name: "Flux",
+      price: "60",
+      discount: "5 ",
+    },
+    {
+      id: 8,
+      cover: "./images/shops/shops-8.png",
+      name: "Interior",
+      price: "120",
+      discount: "10",
+    },
+    {
+      id: 9,
+      cover: "./images/shops/shops-9.png",
+      name: "Coffee Maker",
+      price: "5",
+      discount: "2",
+    },
+    {
+      id: 10,
+      cover: "./images/shops/shops-10.png",
+      name: "Headphone",
+      price: "5",
+      discount: "2",
+    },
+  ],
+}
+export default Sdata;
