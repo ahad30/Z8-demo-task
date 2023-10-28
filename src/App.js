@@ -5,7 +5,7 @@ import Header from "./common/header/Header"
 import Pages from "./pages/Pages"
 import Data from "./components/flashDeals/Data"
 import Footer from "./common/footer/Footer"
-import Sdata from "./components/shops/Sdata"
+import Sdata from "./components/recommanded/Sdata"
 
 function App() {
   const { productItems } = Data

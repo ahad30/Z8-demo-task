@@ -1,12 +1,12 @@
 import React from "react";
 import logo from "../../components/assets/images/logo-colored.png";
-import "./style.css";
+import "./footer.css";
 
 const Footer = () => {
   return (
     <>
       <footer>
-        <div className='container grid2'>
+        <div className='container grid20'>
           <div className='box mt-2'>
           <div className=" mb-2"> 
             <img src={logo} alt='' />  
@@ -58,6 +58,11 @@ const Footer = () => {
               <li>Email: uilib.help@gmail.com</li>
               <li>Phone: +1 1123 456 780</li>
             </ul>
+          </div>
+          <div className='box'>
+            <h2 className="ms-3">Get app</h2>
+           <img src="images/group.png" alt="" className="ms-3"/>
+           <img src="images/group.png" alt="" className="mt-3 ms-3" />
           </div>
         </div>
       </footer>

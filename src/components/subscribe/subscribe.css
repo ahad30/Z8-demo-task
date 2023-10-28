@@ -1,0 +1,41 @@
+/*subscribe */
+.subscribe-content{
+    position: relative;
+
+}
+.from{
+    position:absolute;
+     margin-top: -306px;
+}
+.from h3{
+       text-align: center;
+       margin-left: 33px;
+       text-transform: uppercase;
+       font-weight: bold;
+       font-size: 40px;
+       letter-spacing: 5px;
+
+}
+.from span{
+    color: #f3652a;
+}
+.from p{
+    font-size: 20px;
+    margin-left: 77px;
+    font-weight: bold;
+    color:#fff;
+}
+.bangla input{
+    width: 75%;
+    height: 50px;
+    margin-left:150px;
+}
+.bangla button{
+    border: transparent;
+    background-color: #2d62f6;
+    color: #fff;
+    padding: 20px;
+    font-size: 22px;
+   
+}
+/* subscribe css end */
