@@ -39,3 +39,56 @@
    
 }
 /* subscribe css end */
+
+
+/* Mobile Responsive */
+
+@media only screen and (max-width:768px){
+
+    .from h3 {
+        text-align: center;
+        margin-left: -13px;
+        text-transform: uppercase;
+        font-weight: bold;
+        font-size: 23px;
+        letter-spacing: 5px;
+    }
+
+    .from p {
+        font-size: 17px;
+        margin-left: -18px;
+        font-weight: bold;
+        color: #fff;
+        text-align: center;
+        padding: 20px;
+    }
+
+    .bangla input {
+        width: 134%;
+        height: 50px;
+        margin-left: -62px;
+
+    }
+
+    .col-md-6{
+        position: absolute;
+        bottom: -12px;
+        left: 96px;
+    }
+
+    .col-md-2{
+        position: absolute;
+        top: 188px;
+        right: 224px;
+    }
+
+    .bangla button{
+       margin-left: -12px;
+       
+    }
+
+
+
+
+
+}

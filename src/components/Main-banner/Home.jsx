@@ -10,10 +10,10 @@ const Home = () => {
     <>
       <section className='home'>
         <div className='container'>
-       <div className="row">
-        <div className="col-12 col-md-2"><Categories/></div>
-        <div className="col-12 col-md-6"><Banner/></div>
-        <div className="col-12 col-md-4"><SideText/></div>
+       <div className="grid_banner">
+        <div className=""><Categories/></div>
+        <div className=""><Banner/></div>
+        <div className=""><SideText/></div>
       </div>
         </div>
       </section>

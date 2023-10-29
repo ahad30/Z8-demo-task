@@ -10,14 +10,14 @@ const Contact = () => {
         <div className='col-md-12'>
           <div className='contact-form' >
             <div className="row">
-            <div className="col-12 col-md-5">
+            <div className="col-12 col-md-5 mt-3">
           <h3 className="">
               <span >An easy way to send requests to all suppliers </span>
            </h3>
         
             <span> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt.</span>
             </div>
-          <div class="col-12 col-md-7">
+          <div class="col-12 col-md-7 mt-3">
         <div class="bg-light p-4 rounded">
           <h2 class="mb-4 text-dark">Send quote to suppliers</h2>
           <form>

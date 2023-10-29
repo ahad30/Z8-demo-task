@@ -27,3 +27,15 @@
   font-weight: 500;
 }
 
+
+@media only screen and (max-width:768px){
+
+  .wrapper {
+    display: grid;
+    grid-template-columns:1fr;
+    text-align: center;
+  }
+
+
+}
+

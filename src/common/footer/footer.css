@@ -43,6 +43,8 @@ footer li {
 }
 
 
+/* Mobile Responsive */
+
 @media only screen and (max-width:768px){
 
   .grid20 {
@@ -56,3 +58,5 @@ footer li {
   }
   
 }
+
+/* Mobile Responsive */

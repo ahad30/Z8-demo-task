@@ -1,6 +1,6 @@
-import React from "react"
-import ShopCart from "./ShopCart"
-import "./style.css"
+import React from "react";
+import ShopCart from "./ShopCart";
+import "./recommanded.css";
 
 const Shop = ({ addToCart, shopItems }) => {
   return (

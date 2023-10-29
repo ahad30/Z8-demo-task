@@ -4,11 +4,11 @@ import Ndata from "./Ndata"
 const Cart = () => {
   return (
     <>
-       <div className="d-flex container">
+       <div className="f_flex container">
         <div className="banner mt-3">
         <h4 className='text-dark fw-bold'>
           Home and Outdoor
-          <button type="button" class="btn btn-light  mt-3">Source now </button>
+          <button type="button" class="btn btn-light mt-3 ">Source now </button>
         </h4>
         </div>
 
@@ -28,7 +28,7 @@ const Cart = () => {
       </div>
       </div>
 
-      <div className="d-flex container">
+      <div className="f_flex container">
         <div className="banner2 mt-3">
         <h4 className='text-dark fw-bold'>
          Consumer Electronics and gadgets

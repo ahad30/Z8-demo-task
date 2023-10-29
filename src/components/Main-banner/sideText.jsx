@@ -4,6 +4,7 @@ import "./Home.css";
 const SideText = () => {
   return (
     <>
+    <section className='side'>
     <div className='light-blue  mt-3'>
       <div className="d-flex ">
         <img src="images/Avatar.png" alt="" className='me-2' />
@@ -27,6 +28,7 @@ const SideText = () => {
       Send quotes with supplier preferences
       </h4>
     </div>
+    </section>
 </>
   )
 }

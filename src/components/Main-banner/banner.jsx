@@ -4,7 +4,7 @@ import "./Home.css";
 const Banner = () => {
   return (
     <div id="hero" className='mt-4'>
-        <div className ="container">
+        <div className ="container banner-text">
             <h3 className="text-dark">
                 <span >Latest Trending </span>
            </h3>

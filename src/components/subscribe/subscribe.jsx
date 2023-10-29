@@ -13,11 +13,11 @@ const subscribe = () => {
                 <p>Subscribe to the Expert mailing list to receive updates on new arrivals, special offers and other discount information.</p>
                  <form class="bangla">
                      <div class="row d-flex justify-content-center my-3">
-                         <div class="col-md-6 mt-5">
+                         <div class="col-12 col-md-6 mt-5">
                              <input type="text" class="form-control" placeholder='Email' />
                          </div>
 
-                          <div class="col-md-2 mt-5">
+                          <div class="col-12 col-md-2 mt-5">
                           <button type="button" class="btn btn-success mt-1">Subscribe</button>
                          </div>
                      </div>

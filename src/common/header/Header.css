@@ -95,3 +95,33 @@ height: 16px;
 
 
 
+/* Mobile Responsive */
+
+@media screen and (max-width:768px) {
+    
+  .search-box {
+    margin-top: 40px;
+    height: 52px;
+  
+  }
+  .search-box span{
+    visibility: hidden;
+  }
+
+  .search-box i{
+   margin-bottom: 2px;
+  }
+
+  .top-nav{
+    position: absolute;
+    left: 180px;
+    top: 10px;
+  }
+
+  .shipment{
+    position: absolute;
+    visibility: hidden;
+  }
+
+
+}

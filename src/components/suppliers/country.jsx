@@ -1,8 +1,8 @@
-import React from 'react'
-
+import React from 'react';
+import './country.css';
 const country = () => {
   return (
-    <div className='container mb-5 mt-4'>
+    <div className='container mb-5 mt-4 '>
       <h2 className='mb-5'>Suppliers by region</h2>
     <div className="row country">
     <div className="col-md-3">
@@ -56,12 +56,6 @@ const country = () => {
         </div>
     </div>
     </div>
-
-    
-
-    
-
-    
     </div> 
     </div>
   )

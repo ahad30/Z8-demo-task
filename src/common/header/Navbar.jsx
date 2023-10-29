@@ -10,19 +10,19 @@ const Navbar = () => {
             <ul className="d-flex">
               <i class="fa-solid fa-bars me-2"></i>
               <li>
-                All category
+                 Category
               </li>
               <li>
-                Hot offers
+                 Offers
               </li>
               <li>
-                Gift box
+                Gifts
               </li>
               <li>
-                projects
+                Projects
               </li>
               <li>
-                Menu item
+                Menu
               </li>
               <li>
                 Help
@@ -30,7 +30,7 @@ const Navbar = () => {
             </ul>
           </div>
 
-          <div className='d-flex'>
+          <div className='d-flex shipment'>
             <div className="me-3">
               English,USD <span><i class="fa-solid fa-chevron-down"></i></span>
             </div>

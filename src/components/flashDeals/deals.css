@@ -79,3 +79,15 @@ margin-left: 44px;
   opacity: 1;
 }
 /*---------product-----------*/
+
+
+/* Mobile Responsive */
+
+@media only screen and (max-width:768px) {
+  
+  .image img{
+    margin-left: 11px;
+    margin-bottom: 11px;
+    }
+  
+}
